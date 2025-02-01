@@ -46,6 +46,6 @@ Before using this app, ensure you have the following:
 ## App Screenshots
 
 ### 1. Sign In
-<img src="images/singin.jpg](https://github.com/user-attachments/assets/6e75ee86-fd15-45e1-8d48-25368f3ef25e)" width="150">
+<img src="https://github.com/user-attachments/assets/6e75ee86-fd15-45e1-8d48-25368f3ef25e" width="150">
 
 
